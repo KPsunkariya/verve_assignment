@@ -1,0 +1,72 @@
+2024/12/17 20:12:32 main.go:20: Starting server on :8989
+2024/12/17 20:31:48 main.go:20: Starting server on :8989
+2024/12/17 20:46:34 main.go:28: Starting server on :8989
+2024/12/17 20:47:34 counter_service.go:42: Unique requests in the last minute: 3
+2024/12/17 20:48:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:49:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:50:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:51:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:52:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:53:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:54:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:55:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:56:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:57:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:58:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 20:59:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:00:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:01:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:02:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:03:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:04:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:05:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:06:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:07:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:08:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:09:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:10:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:11:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:12:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:13:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:14:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:15:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:16:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:17:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:18:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:19:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:20:34 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:31:32 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:33:02 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:34:02 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:35:02 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:36:02 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 21:37:02 counter_service.go:42: Unique requests in the last minute: 0
+2024/12/17 22:10:48 main.go:30: Starting server on :8989
+2024/12/17 22:11:20 accept_handler.go:24: input id:  4
+2024/12/17 22:11:20 accept_handler.go:52: write: 2
+2024/12/17 22:11:20 accept_handler.go:52: write: 2
+2024/12/17 22:11:20 http_service.go:41: POST to http://localhost:8989/api/verve/uniqueRequest returned status: 200
+2024/12/17 22:11:42 accept_handler.go:24: input id:  5
+2024/12/17 22:11:42 accept_handler.go:52: write: 2
+2024/12/17 22:11:42 accept_handler.go:52: write: 2
+2024/12/17 22:11:42 http_service.go:41: POST to http://localhost:8989/api/verve/uniqueRequest returned status: 200
+2024/12/17 22:11:48 counter_service.go:41: Unique requests in the last minute: 2
+2024/12/17 22:12:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:13:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:14:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:15:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:16:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:17:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:18:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:19:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:20:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:21:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:22:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:23:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:24:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:25:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:26:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:27:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:28:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:29:48 counter_service.go:41: Unique requests in the last minute: 0
+2024/12/17 22:30:48 counter_service.go:41: Unique requests in the last minute: 0
